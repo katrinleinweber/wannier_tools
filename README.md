@@ -73,7 +73,7 @@ Sancho1985: [Highly convergent schemes for the calculation of bulk and surface G
 * Type-II Weyl semimetals, Alexey A. Soluyanov,	Dominik Gresch,	Zhijun Wang,	**QuanSheng Wu**,	Matthias Troyer,	Xi Dai	& B. Andrei Bernevig, [Nature 527, 495–498 (26 November 2015)](http://www.nature.com/nature/journal/v527/n7579/full/nature15768.html) 
 * Topologically nontrivial electronic states in CaSn3
 Sunny Gupta, Rinkle Juneja,  Ravindra Shinde, and  Abhishek K. Singha)
-Journal of Applied Physics 121, 214901 (2017); http://dx.doi.org/10.1063/1.4984262
+Journal of Applied Physics 121, 214901 (2017); https://doi.org/10.1063/1.4984262
 * Transition between strong and weak topological insulator in ZrTe5 and HfTe5
 Zongjian Fan , Qi-Feng Liang , Y. B. Chen, Shu-Hua Yao & Jian Zhou
 http://www.nature.com/articles/srep45667
@@ -125,5 +125,5 @@ School of Materials Science and Engineering, Hebei University of Technology, Tia
 http://pubs.acs.org/doi/pdf/10.1021/acs.jpclett.7b02129
 * A nonmagnetic topological Weyl semimetal in quaternary Heusler compound CrAlTiV
 Xiaoxiong Liu, Lei Li, Yvgui Cui, Jianbo Deng, and Xiaoma Tao
-http://dx.doi.org/10.1063/1.4986155
+https://doi.org/10.1063/1.4986155
  Appl. Phys. Lett. 111, 122104 (2017)
